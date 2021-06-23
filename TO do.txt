@@ -1,0 +1,32 @@
+TO DO list
+
+1.Homepage
+2.Student page
+3.Instructor page
+4.About us and contact us
+5.FAQ
+6.Demo
+
+
+
+HOMEPAGE-
+1.NAME
+2.LOgin details
+3.link to FAQ,DEMO,About us
+4.
+5.
+
+Student Page-
+1.Upcoming test/previous 
+2.Test statistics
+    
+Faculty PAge
+1.Make test
+2.Previous test
+3.Template test page
+4. 
+
+About Us
+
+Demo
+1. depends upon test engine    
